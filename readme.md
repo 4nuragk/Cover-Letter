@@ -2,7 +2,7 @@
 
 > A LaTeX document for my cover letters.
 
-[See a sample here!](https://github.com/TomerAberbach/cover-letter/blob/master/cover-letter.pdf)
+[See a sample here!](https://github.com/4nuragk/cover-letter/blob/master/cover-letter.pdf)
 
 ## Installation
 
@@ -25,7 +25,7 @@ If you'd like to edit the cover letter locally, then complete the following step
 1. Clone the repository:
 
    ```sh
-   $ git clone https://github.com/TomerAberbach/resume.git
+   $ git clone https://github.com/4nuragk/resume.git
    ```
 2. Install [XeLaTeX](http://xetex.sourceforge.net) and run the appropriate command for your operating system to compile to PDF
 
@@ -39,4 +39,4 @@ If you want to make more substantial changes, then search in [Overleaf's tutoria
 
 ## License
 
-[MIT](https://github.com/TomerAberbach/cover-letter/blob/master/license) © [Tomer Aberbach](https://github.com/TomerAberbach)
+[MIT](https://github.com/4nurag/cover-letter/blob/master/license) © [Anurag K](https://github.com/4nuragk)
